@@ -10,4 +10,4 @@ Using HRV to read you’re body and understand it’s state and presenting it in
 We created a device that when connected to a person, reads the HRV via the ECG sensors and translates that information into different color based on the Aura color chart that highlights every color with a respective energy and being displayed on the sculpture which when seen from different angles, represents the orb shape.
 
 
-
+https://www.canva.com/design/DAFddoQNKSM/m0ss5t3Zf0uYhBHEGZIg5Q/view?utm_content=DAFddoQNKSM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
