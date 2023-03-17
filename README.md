@@ -1,7 +1,7 @@
 # Microchallenge-II
 
 
-Our own interests in mental health, wellness and physical health respectively. Understanding your body and it’s responses is what drives both of our projects and taking forward this idea, we built a first model that would help us not only collect data from our bodies but also understand and reflect on them.
+Our interestslies in mental health, wellness and physical health; Understanding your body and it’s responses is what drives both of our projects and taking forward this idea, we built a updated model from the microchallenge I- that would help us not only collect data from our bodies but also understand and reflect on them.
 
 Bio Sensing -HRV( Heart Rate Variability) is where the amount of time between your heartbeats fluctuates slightly. These variations are very small, adding or subtracting a fraction of a second between beats. It changes every second depending on what you’re doing, how you’re feeling.
 
