@@ -27,19 +27,30 @@ not being satisfied with these first few designs we developed the idea of having
 
 ![design](https://user-images.githubusercontent.com/114681912/226208377-b2a52637-2ce2-4339-842f-be6a75890497.jpg)
 
+---
+
 Design Process (Fabrication Methods):
 
-The design was to be rastered on clear acrylic sheets using the laser cut machine.
+The design was to be rastered on clear acrylic sheets using the laser cut machine which needed alot of playing around with the intensities and the sizes of the design to acheive the final look. 
 ![laser cut](https://user-images.githubusercontent.com/114681912/226208740-42ad3090-ea5d-441c-a7e2-fbf68674afc5.jpg)
 
-The next part of the fabrication process was to 3D print the support for these acrylic frames. It didnt work out riht for us in the first try, we had multiple issues with the printer and with understanding the tolerance of the material which led us to print a few times before we got it right.
+The next part of the fabrication process was to 3D print the support for these acrylic frames. It didnt work out right for us in the first try, we had multiple issues with the printer and with understanding the tolerance of the material which led us to print a few times before we got it right.
 ![3d print](https://user-images.githubusercontent.com/114681912/226209090-e504d113-1363-4d91-b374-5f3630b5a2d5.jpg)
 
+The last part was the base structure- for which we used the CNC as the fabrication process as that would allow us to achieve a more clean and minimal look. we wanted a deeper box to accomodate the electronics and for that we cut 2 wood pieces and then glues them together to achieve the desired dept.
 
+![cnc post](https://user-images.githubusercontent.com/114681912/226209955-adaa4cda-0812-4696-a12c-473fa309b168.jpg)
 
-
+---
 
 Electronics and Coding:
+
+This aspect of the project involved the integration of two separate systems. The first part involved connecting ECG sensors to the user and collecting data. Initial results were unexpectedly foggy and inconsistent. What was expected to be an easy task turned out to be much more complex. Although we were able to achieve some interesting results after certain tweaks and calibrations (fixing the sensors to account movement, thresholds in coding), the data was not reliable and the portrayed visualizations ended up being a simulation of the concept. Still, it was an interesting learning experience to understand how ECG sensors are made and the calculations towards achieving accurate HRV. The second part of the project involved the setup of 3 rows of 3 LEDs, and using a Neopixel to provide colorful variations to illustrate the Heart Aura. We then programmed the lights to display variations between blue, purple and white when having stable data, or red colors when displaying signs of distress. Again, since the data is not consistent this entire part of the project is more conceptual than anything. 
+
+![electronics 1](https://user-images.githubusercontent.com/114681912/226210329-71b552e3-21dc-40b8-bfac-8329698ec79e.jpg)
+![electronics 2](https://user-images.githubusercontent.com/114681912/226210331-f99216a8-bed6-4df7-b9f4-4a3bddeb4b92.jpg)
+
+---
 
 Final product:
 
