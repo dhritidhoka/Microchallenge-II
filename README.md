@@ -13,6 +13,11 @@ By collecting heart rate data from ECG sensors, calculating HRV of a user, and v
 ---
 
 Project planning and concept development:
+Habing 3 parts to the project, we divided and planned our work while further developing the concept.
+![Project planning](https://user-images.githubusercontent.com/114681912/226207674-feef9e87-f232-4f25-93f4-4475d92110cd.jpg)
+
+Concept Development-
+
 
 
 Design Process (Fabrication Methods):
