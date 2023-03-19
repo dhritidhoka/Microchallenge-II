@@ -12,15 +12,32 @@ By collecting heart rate data from ECG sensors, calculating HRV of a user, and v
 
 ---
 
-Project planning and concept development:
+Project planning:
 Habing 3 parts to the project, we divided and planned our work while further developing the concept.
 ![Project planning](https://user-images.githubusercontent.com/114681912/226207674-feef9e87-f232-4f25-93f4-4475d92110cd.jpg)
 
-Concept Development-
+Concept and Design Development :
 
+![concept](https://user-images.githubusercontent.com/114681912/226208115-6bac7820-ea34-4523-8090-6b5f173a7cce.jpg)
+We started off with experimenting with new ideas and designs that we could use to demsonstrate our idea.
 
+![design 1](https://user-images.githubusercontent.com/114681912/226208139-6aef0b4a-13ba-4688-a279-a2c42b80370d.jpg)
+
+not being satisfied with these first few designs we developed the idea of having layers of painted transparencies to interact and overlap with one another, to create a sense of depth, form and movements while animating the original idea of creating an orb. created images in increasing form and trying to achieve an embodying experience which encourages a deeper outlook of understanding your state through the illumination of the patterns.
+
+![design](https://user-images.githubusercontent.com/114681912/226208377-b2a52637-2ce2-4339-842f-be6a75890497.jpg)
 
 Design Process (Fabrication Methods):
+
+The design was to be rastered on clear acrylic sheets using the laser cut machine.
+![laser cut](https://user-images.githubusercontent.com/114681912/226208740-42ad3090-ea5d-441c-a7e2-fbf68674afc5.jpg)
+
+The next part of the fabrication process was to 3D print the support for these acrylic frames. It didnt work out riht for us in the first try, we had multiple issues with the printer and with understanding the tolerance of the material which led us to print a few times before we got it right.
+![3d print](https://user-images.githubusercontent.com/114681912/226209090-e504d113-1363-4d91-b374-5f3630b5a2d5.jpg)
+
+
+
+
 
 Electronics and Coding:
 
