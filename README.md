@@ -53,6 +53,5 @@ This aspect of the project involved the integration of two separate systems. The
 
 Final product:
 
+https://drive.google.com/file/d/16nkAKj-XTh7Bl4hdE0x7jqw5-D_SptJ8/view?usp=drive_link
 
-
-https://www.canva.com/design/DAFddoQNKSM/m0ss5t3Zf0uYhBHEGZIg5Q/view?utm_content=DAFddoQNKSM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
