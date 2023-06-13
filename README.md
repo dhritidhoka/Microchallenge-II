@@ -40,6 +40,10 @@ The last part was the base structure- for which we used the CNC as the fabricati
 
 ![cnc post](https://user-images.githubusercontent.com/114681912/226209955-adaa4cda-0812-4696-a12c-473fa309b168.jpg)
 
+this drive link contains all the design fils for all the fabrication processes:
+
+https://drive.google.com/drive/folders/1r9zhONbVDzPNJP3U223vOnXx7jEIdrKE?usp=drive_link
+
 ---
 
 Electronics and Coding:
@@ -49,9 +53,19 @@ This aspect of the project involved the integration of two separate systems. The
 ![electronics 1](https://user-images.githubusercontent.com/114681912/226210329-71b552e3-21dc-40b8-bfac-8329698ec79e.jpg)
 ![electronics 2](https://user-images.githubusercontent.com/114681912/226210331-f99216a8-bed6-4df7-b9f4-4a3bddeb4b92.jpg)
 
----
+![](https://github.com/dhritidhoka/Microchallenge-II/assets/114681912/ac3532bc-1de5-423e-bc24-d5dd8222465e)
 
+---
 Final product:
 
 https://drive.google.com/file/d/16nkAKj-XTh7Bl4hdE0x7jqw5-D_SptJ8/view?usp=drive_link
+
+---
+Link to our individual pages:
+
+Antonio: https://antonioheinemann.github.io/MDEF/
+
+Dhriti: https://dhritidhoka.github.io/MDEF/
+
+
 
